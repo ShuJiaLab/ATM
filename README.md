@@ -1,5 +1,5 @@
 # Reconstruction Demo for Airy-beam Tomographic Microscopy (ATM)
-This software is distributed as accompanying software for the article Jian Wang, et al.,
+This software is distributed as accompanying software for the article Jian Wang, Xuanwen Hua, Changliang Guo, Wenhao Liu, and Shu Jia, "Airy-beam tomographic microscopy," Optica 7, 790-793 (2020),
 ## How to run
 The demo package consists of functions and scripts written in MATLAB (MathWorks, Natick, MA). The code has been tested in MATLAB version R2018b. To simplify coding, we use DIPimage toolbox (http://www.diplib.org/).
 To run the demo code for reconstruction of 3D structure:
